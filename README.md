@@ -39,10 +39,6 @@ The model uses the **Breast Cancer Wisconsin (Diagnostic) Dataset**, which inclu
 - Python 3.x installed  
 - Recommended: Use a virtual environment  
 
-### Installation
-1️⃣ Clone the repository:
-
-
 ---
 
 ## 🧠 Model Training
